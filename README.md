@@ -1,2 +1,2 @@
 # Foyin-item
-佛音-Axure
+佛音
